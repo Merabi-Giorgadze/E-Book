@@ -5,28 +5,28 @@ console.log("hello"); // this was to test that it showed in the browser console 
     author: "J. M. Barrie",
     price: "£15.99",
     description: "Peter Pan and Tinkerbell lead the three Darling children over the rooftops of London and away to Neverland - the island where the lost boys play. Magic and mischief is in the air but if villainous Captain Hook has his way, before long someone will be swimming with the crocodiles . . .",
-    image: "../images/PP.jpg"
+    image: "./images/PP.jpg"
     },
     {
     name: "Hansel and Gretel",
     author:"Jacob Grimm",
     price: "£9.99",
     description: "Two innocent children, abandoned in the forest by their cruel mother, who happen upon the enchanting gingerbread house of a wicked witch. Hansel's cunning and little Gretel's courage foil the witch's evil plan to fatten them up and eat them, and in the best fairy tale tradition, they and their loving father live happily ever after.",
-    image: "../images/HAG.jpg"
+    image: "./images/HAG.jpg"
     },
     {
     name: "Rumpelstiltskin",
     author: "Jacob Grimm",
     price: "£10.99",
     description: "When the king charges the miller’s beautififul daughter with spinning straw into gold she makes an ill-advised deal with the cunning Rumpelstiltskin.",
-    image: "../images/rump.jpg"
+    image: "./images/rump.jpg"
     },
     {
     name: "Snow White",
     author: "The Brothers Grimm",
     price: "£14.99",
     description: "Jealous of Snow White's beauty, the wicked queen orders the murder of her innocent stepdaughter, but later discovers that Snow White is still alive and hiding in a cottage with seven friendly little miners.",
-    image: "../images/SW.jpeg"
+    image: "./images/SW.jpeg"
     }
 ];
 
